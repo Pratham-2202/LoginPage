@@ -17,6 +17,8 @@ html, body {
     #login{
     color: white;
     text-align: center;
+    font-family: 'Georgia', serif;
+    font-weight: bold;
     }
     .user-box {
     position: relative;
