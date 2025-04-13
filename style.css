@@ -54,6 +54,7 @@ html, body {
     }
     
     button {
+    font-weight: bold;
     padding: 10px 20px;
     color: skyblue;
     font-size: 16px;
@@ -61,10 +62,11 @@ html, body {
     background: rgba(0, 0, 0, 0.02);
     margin-top: 20px;
     letter-spacing: 2px;
-    border-radius: 5px;
+    border-radius: 35px;
     border:blue;
     display: block; 
     margin: 20px auto;
+    
     }
     button:hover {
     background-color:rgb(42, 201, 201);
