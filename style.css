@@ -19,6 +19,7 @@ html, body {
     text-align: center;
     font-family: 'Georgia', serif;
     font-weight: bold;
+    margin-bottom: 30px;
     }
     .user-box {
     position: relative;
